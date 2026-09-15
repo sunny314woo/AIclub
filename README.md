@@ -4,7 +4,7 @@
 
 ## 本地预览
 
-在当前目录运行 `python3 -m http.server 8787`，然后打开 `http://localhost:8787/index.html`。两个小游戏作为独立 HTML 页面被主页链接引用，视频与作品图片也直接使用当前目录中的静态资源。
+在当前目录运行 `python3 -m http.server 8787`，然后打开 `http://localhost:8787/index.html`。两个小游戏作为独立 HTML 页面被主页链接引用，视频与作品图片也直接使用当前目录中的静态资源。第二个视频使用 `student-ecommerce-demo-02.mp4` 作为 Pages 发布版，原始 `.mov` 文件仍保留在本地。
 
 ## Cloudflare Pages 部署建议
 
